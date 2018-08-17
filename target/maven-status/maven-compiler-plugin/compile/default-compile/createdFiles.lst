@@ -1,0 +1,13 @@
+com/hand/hadoop/mapreduce/ParitionerApp$MyPartitioner.class
+com/hand/hadoop/mapreduce/WordCountApp$MyMpper.class
+com/hand/hadoop/mapreduce/WordCountApp$MyReducer.class
+com/hand/hadoop/mapreduce/CombinerApp$MyReducer.class
+com/hand/hadoop/mapreduce/CombinerApp.class
+com/hand/hadoop/project/LogApp.class
+com/hand/hadoop/mapreduce/ParitionerApp$MyReducer.class
+com/hand/hadoop/mapreduce/CombinerApp$MyMpper.class
+com/hand/hadoop/mapreduce/WordCountApp.class
+com/hand/hadoop/project/LogApp$MyReducer.class
+com/hand/hadoop/mapreduce/ParitionerApp.class
+com/hand/hadoop/project/LogApp$MyMpper.class
+com/hand/hadoop/mapreduce/ParitionerApp$MyMpper.class
